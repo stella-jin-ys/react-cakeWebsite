@@ -1,0 +1,182 @@
+{
+  "cupcakes": [
+    {
+      "id": 1,
+      "title": "Chocolate Cupcake",
+      "image": "https://images.unsplash.com/photo-1640806354740-d47c98c190ea?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fGN1cGNha2VzfGVufDB8fDB8fHww",
+      "price": 2.99,
+      "hoverImage": "https://images.unsplash.com/photo-1682979021485-7b7bdb0ca4b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxjdXBjYWtlJTIwZmlsbGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "flavors": [
+        "https://images.unsplash.com/photo-1723638109591-db81fc6c85ed?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1599785209796-786432b228bc?q=80&w=3686&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1673337266994-c893b4ad863b?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Vanilla Cupcake",
+      "image": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 2.79,
+      "hoverImage": "https://images.unsplash.com/photo-1682979021485-7b7bdb0ca4b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxjdXBjYWtlJTIwZmlsbGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "flavors": [
+        "https://images.unsplash.com/photo-1723638109591-db81fc6c85ed?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1599785209796-786432b228bc?q=80&w=3686&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1673337266994-c893b4ad863b?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Red Velvet Cupcake",
+      "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?q=80&w=3072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 3.19,
+      "hoverImage": "https://images.unsplash.com/photo-1682979021485-7b7bdb0ca4b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxjdXBjYWtlJTIwZmlsbGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "flavors": [
+        "https://images.unsplash.com/photo-1723638109591-db81fc6c85ed?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1599785209796-786432b228bc?q=80&w=3686&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1673337266994-c893b4ad863b?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lemon Cupcake",
+      "image": "https://images.unsplash.com/photo-1519869325930-281384150729?q=80&w=2293&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 2.89,
+      "hoverImage": "https://images.unsplash.com/photo-1682979021485-7b7bdb0ca4b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxjdXBjYWtlJTIwZmlsbGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "flavors": [
+        "https://images.unsplash.com/photo-1723638109591-db81fc6c85ed?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1599785209796-786432b228bc?q=80&w=3686&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1673337266994-c893b4ad863b?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Strawberry Cupcake",
+      "image": "https://images.unsplash.com/photo-1563778084459-859099e48677?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 3.29,
+      "hoverImage": "https://images.unsplash.com/photo-1682979021485-7b7bdb0ca4b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxjdXBjYWtlJTIwZmlsbGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "flavors": [
+        "https://images.unsplash.com/photo-1723638109591-db81fc6c85ed?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1599785209796-786432b228bc?q=80&w=3686&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1673337266994-c893b4ad863b?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Carrot Cupcake",
+      "image": "https://images.unsplash.com/photo-1587536849024-daaa4a417b16?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 2.99,
+      "hoverImage": "https://images.unsplash.com/photo-1682979021485-7b7bdb0ca4b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxjdXBjYWtlJTIwZmlsbGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "flavors": [
+        "https://images.unsplash.com/photo-1723638109591-db81fc6c85ed?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1599785209796-786432b228bc?q=80&w=3686&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1673337266994-c893b4ad863b?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Coconut Cupcake",
+      "image": "https://images.unsplash.com/photo-1566864399117-22c449669089?q=80&w=2282&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 3.49,
+      "hoverImage": "https://images.unsplash.com/photo-1682979021485-7b7bdb0ca4b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxjdXBjYWtlJTIwZmlsbGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "flavors": [
+        "https://images.unsplash.com/photo-1723638109591-db81fc6c85ed?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1599785209796-786432b228bc?q=80&w=3686&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1673337266994-c893b4ad863b?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Blueberry Cupcake",
+      "image": "https://images.unsplash.com/photo-1567022405855-fc2ce6befe33?q=80&w=3571&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 3.19,
+      "hoverImage": "https://images.unsplash.com/photo-1682979021485-7b7bdb0ca4b9?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzc0fHxjdXBjYWtlJTIwZmlsbGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "flavors": [
+        "https://images.unsplash.com/photo-1723638109591-db81fc6c85ed?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1599785209796-786432b228bc?q=80&w=3686&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601045518565-2f15fff0b42b?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1673337266994-c893b4ad863b?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    }
+  ],
+  "weddingcakes": [
+    {
+      "id": 9,
+      "title": "Classic Wedding Cake",
+      "image": "https://images.unsplash.com/photo-1561702856-b4ec96854ed8?q=80&w=2719&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 150.0,
+      "hoverImage": "",
+      "flavors": []
+    },
+    {
+      "id": 10,
+      "title": "Rustic Wedding Cake",
+      "image": "https://images.unsplash.com/photo-1546379782-7b9235cf24ae?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 180.0,
+      "hoverImage": "",
+      "flavors": []
+    },
+    {
+      "id": 11,
+      "title": "Modern Wedding Cake",
+      "image": "https://images.unsplash.com/photo-1622063531136-e7efff4ece72?q=80&w=3671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 200.0,
+      "hoverImage": "",
+      "flavors": []
+    },
+    {
+      "id": 12,
+      "title": "Floral Wedding Cake",
+      "image": "https://images.unsplash.com/photo-1519654793190-2e8a4806f1f2?q=80&w=3369&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 220.0,
+      "hoverImage": "",
+      "flavors": []
+    },
+    {
+      "id": 13,
+      "title": "Vintage Wedding Cake",
+      "image": "https://images.unsplash.com/photo-1542007920-992d2c424d09?q=80&w=3120&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 210.0,
+      "hoverImage": "",
+      "flavors": []
+    },
+    {
+      "id": 14,
+      "title": "Minimalist Wedding Cake",
+      "image": "https://images.unsplash.com/photo-1557308536-ee471ef2c390?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 190.0,
+      "hoverImage": "",
+      "flavors": []
+    },
+    {
+      "id": 15,
+      "title": "Geometric Wedding Cake",
+      "image": "https://images.unsplash.com/photo-1616690710400-a16d146927c5?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 230.0,
+      "hoverImage": "",
+      "flavors": []
+    },
+    {
+      "id": 16,
+      "title": "Buttercream Wedding Cake",
+      "image": "https://images.unsplash.com/photo-1566802596043-d990c488bc63?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 250.0,
+      "hoverImage": "",
+      "flavors": []
+    }
+  ]
+}
