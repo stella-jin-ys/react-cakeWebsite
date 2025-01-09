@@ -1,9 +1,7 @@
 import React from "react";
 import { Link } from "react-scroll";
 
-type Props = {};
-
-export default function Header({}: Props) {
+export default function Header() {
   return (
     <div className="flex justify-between bg-teal-300 px-20 py-5 text-teal-800">
       <ul className="flex gap-20 cursor-pointer">

@@ -2,9 +2,7 @@ import React from "react";
 import Header from "../Header";
 import logo from "../images/logo.png";
 
-type Props = {};
-
-export default function Home({}: Props) {
+export default function Home() {
   return (
     <div className="h-screen overflow-hidden">
       <Header />

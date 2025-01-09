@@ -1,13 +1,10 @@
 import React from "react";
-import Header from "../Header";
 import { ReactComponent as FacebookIcon } from "../images/facebook.svg";
 import { ReactComponent as InstagramIcon } from "../images/instagram.svg";
 import { ReactComponent as WhatsappIcon } from "../images/whatsapp.svg";
 import Footer from "../Footer";
 
-type Props = {};
-
-export default function Contact({}: Props) {
+export default function Contact() {
   return (
     <div>
       <div className="flex justify-center items-center gap-5 my-10">

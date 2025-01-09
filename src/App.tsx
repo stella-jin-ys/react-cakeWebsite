@@ -3,8 +3,6 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Products, { Product } from "./pages/Products";
 import Contact from "./pages/Contact";
-import Payment from "./pages/Payment";
-import { useState } from "react";
 
 export default function App() {
   return (

@@ -2,9 +2,7 @@ import React from "react";
 import { ReactComponent as FacebookIcon } from "./images/facebook.svg";
 import { ReactComponent as PinIcon } from "./images/pinterest.svg";
 
-type Props = {};
-
-export default function ({}: Props) {
+export default function () {
   return (
     <div className="flex justify-center bg-gray-100 py-10 ">
       <div className="flex flex-col gap-5 text-center">

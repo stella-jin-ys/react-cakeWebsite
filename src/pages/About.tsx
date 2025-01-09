@@ -1,9 +1,6 @@
 import React from "react";
-import Header from "../Header";
 
-type Props = {};
-
-export default function About({}: Props) {
+export default function About() {
   return (
     <div className="flex p-10 gap-10 justify-center border-t-2 my-20 ">
       <div className="w-1/3 ">
