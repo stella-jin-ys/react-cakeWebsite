@@ -1,4 +1,4 @@
-Cakery Website
+Cake Website
 
 Cakery is an interactive e-commerce platform for purchasing cakes, including cupcakes and wedding cakes. Users can browse products, view product details, add items to their cart, adjust quantities, and proceed to payment. The platform is built with React, leveraging reusable components and dynamic state management.
 
