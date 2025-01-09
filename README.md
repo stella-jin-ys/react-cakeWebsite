@@ -16,6 +16,7 @@ Payment Page: Review cart items and proceed to checkout.
 Responsive Design: Optimized for desktop and mobile screens.
 
 
+
 Key Technologies
 
 React: Component-based architecture.
@@ -25,6 +26,7 @@ TypeScript: Strongly-typed codebase for better maintainability.
 CSS: Custom styling for responsive design.
 
 SVG Icons: For visual enhancements like the cart icon.
+
 
 
 Installation
