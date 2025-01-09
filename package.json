@@ -13,11 +13,14 @@
     "react-scroll": "^1.9.0",
     "tailwindcss": "^3.4.17"
   },
+  "homepage": "https://stella-jin-ys.github.io/react-cakeWebsite",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
