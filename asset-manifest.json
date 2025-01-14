@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-cakeWebsite/static/css/main.a28b296b.css",
-    "main.js": "/react-cakeWebsite/static/js/main.e09dc73e.js",
+    "main.css": "/react-cakeWebsite/static/css/main.861f783d.css",
+    "main.js": "/react-cakeWebsite/static/js/main.500b23d2.js",
     "static/media/logo.png": "/react-cakeWebsite/static/media/logo.20058142de8b378b72e9.png",
     "static/media/instagram.svg": "/react-cakeWebsite/static/media/instagram.a0a9a83448ddb5827d70493a84d37806.svg",
     "static/media/pinterest.svg": "/react-cakeWebsite/static/media/pinterest.455fa1e59d229e0b70090367a19ad507.svg",
@@ -9,11 +9,11 @@
     "static/media/cart.svg": "/react-cakeWebsite/static/media/cart.ff8e22f888054c71eba3776ea2ca60cd.svg",
     "index.html": "/react-cakeWebsite/index.html",
     "static/media/whatsapp.svg": "/react-cakeWebsite/static/media/whatsapp.b38bde1871e473a4c0021b765947408b.svg",
-    "main.a28b296b.css.map": "/react-cakeWebsite/static/css/main.a28b296b.css.map",
-    "main.e09dc73e.js.map": "/react-cakeWebsite/static/js/main.e09dc73e.js.map"
+    "main.861f783d.css.map": "/react-cakeWebsite/static/css/main.861f783d.css.map",
+    "main.500b23d2.js.map": "/react-cakeWebsite/static/js/main.500b23d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a28b296b.css",
-    "static/js/main.e09dc73e.js"
+    "static/css/main.861f783d.css",
+    "static/js/main.500b23d2.js"
   ]
 }
