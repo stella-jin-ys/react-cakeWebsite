@@ -7,17 +7,17 @@ export default function Header() {
       <ul className="flex gap-20 cursor-pointer">
         <li className="hover:border-b border-teal-600 text-teal-600">
           <Link to="home" smooth>
-            Home
+            HOME
           </Link>
         </li>
         <li className="hover:border-b border-teal-600 text-teal-600">
-          <Link to="about">About</Link>
+          <Link to="about">ABOUT</Link>
         </li>
         <li className="hover:border-b border-teal-600 text-teal-600">
-          <Link to="products">Products</Link>
+          <Link to="products">PRODUCTS</Link>
         </li>
         <li className="hover:border-b border-teal-600 text-teal-600">
-          <Link to="contact">Contact</Link>
+          <Link to="contact">CONTACT</Link>
         </li>
       </ul>
     </div>
